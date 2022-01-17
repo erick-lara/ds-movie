@@ -1,6 +1,5 @@
 import axios from "axios";
 import MovieCard from "components/MovieCard";
-import MovieScore from "components/MovieScore";
 import Pagination from "components/Pagination";
 import { useEffect, useState } from "react";
 import { MoviePage } from "types/movie";
